@@ -1,0 +1,7 @@
+streamlit
+textblob
+pandas
+python-dotenv
+requests
+streamlit_chat
+groq
